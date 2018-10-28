@@ -36,7 +36,7 @@ app大致可以分为：
 <br>
 
 ### 3.三类app的特性和优缺点
-![](https://github.com/Stephentanse/SE17-homework/blob/master/homework2/907f2ff9d9f3a8c202d3dd210a10c8b3.png)
+![](https://github.com/Stephentanse/SE17-homework/blob/master/homework2/b0cf05c189c1814380709ec94ebd5a7b.png)
 
 
 
