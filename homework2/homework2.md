@@ -122,11 +122,13 @@ app大致可以分为：
 
 <br>
 
-        iOS平台上的App有三类：Web App，通过浏览器访问；Native App，通过App store安装；第三类叫Hybrid  App，它虽然看上去是一个Native App，但只有一个UI WebView，里面访问的是一个Web App，比如街旁网最开始的应用就是包了个客户端的科，其实里面是HTML5的网页，后来才推出真正的原生应用。再彻底一点的，如掌上百度和淘宝客户端Android版，走的也是Hybrid App的路线，不过掌上百度里面封装的不是WebView，而是自己的浏览内核，所以体验上更像客户端，更高效。
+        iOS平台上的App有三类：Web App，通过浏览器访问；Native App，通过App store安装；第三类叫Hybrid  App，它虽然看上去是一个Native App，但只有一个UI WebView，里面访问的是一个Web App，比如街旁网最开始的应用就是包了个客户端的科，其实里面是HTML5的网页，后来才推出真正的原生应用。
+        再彻底一点的，如掌上百度和淘宝客户端Android版，走的也是Hybrid App的路线，不过掌上百度里面封装的不是WebView，而是自己的浏览内核，所以体验上更像客户端，更高效。
 
 <br>
 
-        谷歌的Chrome OS和Android都是操作系统，但走的是两条路。Chrome OS走的是Web app的路。从Chrome OS 大会上发布的Chrome Web App能看出来，谷歌想为未来的Chrome OS做铺垫，鼓励更多的开发者开发出具有应用程序体验的Web App，正如Chrome OS官网上说的——“Nothing but the web”。而Android走的是Native App的路。Android作为手机平台的操作系统，明显更注重应用程序开发，这一点从Android Market可以看出来。也许前微软首席架构师Ray Ozzie的评价更加一针见血：“谷歌的战略中Android（以app为主）是在赌过去，而Chrome OS（完全基于Web）则是在赌未来。”
+        谷歌的Chrome OS和Android都是操作系统，但走的是两条路。Chrome OS走的是Web app的路。从Chrome OS 大会上发布的Chrome Web App能看出来，谷歌想为未来的Chrome OS做铺垫，鼓励更多的开发者开发出具有应用程序体验的Web App，正如Chrome OS官网上说的——“Nothing but the web”。而Android走的是Native App的路。
+        Android作为手机平台的操作系统，明显更注重应用程序开发，这一点从Android Market可以看出来。也许前微软首席架构师Ray Ozzie的评价更加一针见血：“谷歌的战略中Android（以app为主）是在赌过去，而Chrome OS（完全基于Web）则是在赌未来。”
 
 <br>
 
