@@ -5,7 +5,7 @@ Native app, Web app and Hybrid app
 
 <br>
 
-## 1.app的分类
+### 1.app的分类
 
 
 app大致可以分为：
