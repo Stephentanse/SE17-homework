@@ -16,3 +16,10 @@ app大致可以分为：
 
 
 ![](https://github.com/Stephentanse/SE17-homework/blob/master/homework2/907f2ff9d9f3a8c202d3dd210a10c8b3.png)
+<br>
+
+
+### 2.三类app的定义(来自百度百科)
+#### 2.1 Native app
+>基于智能手机本地操作系统如iOS、Android、WP并使用原生程式编写运行的第三方应用程序，一般开发的语言为Java、C++等。
+
