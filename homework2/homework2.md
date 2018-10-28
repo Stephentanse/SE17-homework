@@ -110,7 +110,9 @@ app大致可以分为：
 * 如果APP需要频繁调用硬件（摄像头、麦克风、未来的湿度检测仪等等）那么，基本选用原生开发，这样支持硬件更多，更容易扩展，且调用速度更快，H5就望尘莫及了。
 * 如果APP用户常见页面频换，如（淘宝首页各种不同活动），那么用H5，维护起来更容易。
 * 如果预算有限（H5开发一套可跨平台覆盖安卓、ios，黑莓、塞班），不是很讲究用户体验，不在乎加载速度，那非H5不可。
+
 <br>
+
 * 偏交互的Native，偏浏览的Web：交互指复杂操作，输入/选择什么的
 * 已稳定的Native，试错中的Web：H5页面用来做低成本验证很好
 * 访问硬件Native，信息展示Web：指手机里的各种传感器什么的
@@ -131,7 +133,7 @@ iOS平台上的App有三类：Web App，通过浏览器访问；Native App，通
 
 <br>
 
- 谷歌的Chrome OS和Android都是操作系统，但走的是两条路。
+<br /> 谷歌的Chrome OS和Android都是操作系统，但走的是两条路。
         Chrome OS走的是Web app的路。从Chrome OS 大会上发布的Chrome Web App
         能看出来，谷歌想为未来的Chrome OS做铺垫，鼓励更多的开发者开发出具有应用程序体验的Web App，正如Chrome OS官网上说的——“Nothing but the web”。而Android走的是Native App的路。
         Android作为手机平台的操作系统，明显更注重应用程序开发，这一点从Android Market可以看出来。
