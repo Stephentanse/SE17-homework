@@ -133,7 +133,7 @@ iOS平台上的App有三类：Web App，通过浏览器访问；Native App，通
 
 <br>
 
-<br /> 谷歌的Chrome OS和Android都是操作系统，但走的是两条路。
+&nbsp; 谷歌的Chrome OS和Android都是操作系统，但走的是两条路。
         Chrome OS走的是Web app的路。从Chrome OS 大会上发布的Chrome Web App
         能看出来，谷歌想为未来的Chrome OS做铺垫，鼓励更多的开发者开发出具有应用程序体验的Web App，正如Chrome OS官网上说的——“Nothing but the web”。而Android走的是Native App的路。
         Android作为手机平台的操作系统，明显更注重应用程序开发，这一点从Android Market可以看出来。
