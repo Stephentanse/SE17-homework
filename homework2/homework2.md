@@ -2,11 +2,12 @@ Native app, Web app and Hybrid app
 ====
 <br>
 
-一.介绍
-----
+## 一.介绍
 
-1.app的分类
-----
+<br>
+
+### 1.app的分类
+
 
 app大致可以分为：
 * native app(本地app)
